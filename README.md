@@ -1,4 +1,4 @@
-# Bus Depot Manager
+# Bus Depot
 **BusDepot** is a C# Windows Forms application developed as part of a university project.  
 It simulates a simple bus depot management system, including drivers, buses, and route assignments.
 
@@ -7,10 +7,13 @@ This project was created for academic purposes and aims to demonstrate practical
 - Object-oriented programming (OOP)
 - Basic WinForms GUI development
 - Simple user authentication
-- Data structuring and handling in memory
+- SQL queries
+- MySQL databases
 
 ## Features
 - Simple login form for user authentication
+- SQL queries
+- MySQL databases
 - Driver management (add/edit/remove)
 - Bus management with status tracking
 - Route and schedule assignment
@@ -18,6 +21,8 @@ This project was created for academic purposes and aims to demonstrate practical
 
 ## Technologies
 - C#
+- SQL queries
+- MySQL databases
 - .NET Framework 4.7.2+
 - Windows Forms (WinForms)
 - Visual Studio 2019+
